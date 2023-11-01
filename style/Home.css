@@ -1,0 +1,22 @@
+body {
+    height: auto;
+    padding: 24px;
+    margin: auto;
+    top: 10vh;
+}
+
+.navbar{
+        font-weight: 400;
+        line-height: 1.5;
+        color: #000000;
+        text-align: center;
+}
+
+.logo{
+    border-radius: 5px;
+    height: 75px;
+}
+
+.cover {
+    padding: 0 1.5rem;
+}
